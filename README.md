@@ -1,6 +1,6 @@
 # Shu-ha-ri-Blackjack
- Mi dirección de GitHub para este repositorio es la siguiente: [GitHub](https://github.com/alexlomu/Blackjack)
- https://github.com/alexlomu/Blackjack.
+ Mi dirección de GitHub para este repositorio es la siguiente: [GitHub](https://github.com/alexlomu/Shu-ha-ri-Blackjack)
+ https://github.com/alexlomu/Shu-ha-ri-Blackjack.
  Hemos hecho un código con el que se puede jugar al blackjack en modo un jugador (contra la banca) incluyendo las formas de las cartas y dando la posibilidad de volver a jugar al acabar una partida.
  El diagrama de flujo es el siguiente:
  ![figma_shuhari](https://user-images.githubusercontent.com/91721507/143012617-cad8c7fc-a5b5-4e31-9318-30b64887b235.JPG)
