@@ -7,20 +7,20 @@
 
 El código del juego es el siguiente:
 ´´´
-import random
-baraja = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
+ import random
+ baraja = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 
-#funcion para repartir cartas
-def preparacion(baraja):
-    primera_carta = random.choice(baraja)
-    baraja.remove(primera_carta)
-    print(primera_carta)
-    segunda_carta = random.choice(baraja)
-    baraja.remove(segunda_carta)
-    print(segunda_carta)
-    puntuacion = primera_carta + segunda_carta
+ #funcion para repartir cartas
+ def preparacion(baraja):
+     primera_carta = random.choice(baraja)
+     baraja.remove(primera_carta)
+     print(primera_carta)
+     segunda_carta = random.choice(baraja)
+     baraja.remove(segunda_carta)
+     print(segunda_carta)
+     puntuacion = primera_carta + segunda_carta
     
-    return puntuacion
+     return puntuacion
 
 #funcion para que juegue el crupier
 def crupier(baraja, puntuacion_crupier):
