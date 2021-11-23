@@ -81,4 +81,3 @@ else:
         print("He perdido, me he pasado de 21 con: " + str(banca))
     else:
         print("Me planto con: " + str(banca) + ". He ganado")
-´´´
